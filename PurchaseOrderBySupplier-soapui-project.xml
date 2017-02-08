@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project id="93580fb4-db9a-461b-b8da-7f8f84d350a7" activeEnvironment="Default environment" name="PurchaseOrderBySupplier" lastOpened="2017-02-07T12:19:07.181+05:30" resourceRoot="" soapui-version="6.0.0" xmlns:con="http://eviware.com/soapui/config"><con:settings/><con:interface xsi:type="con:RestService" id="bb6ceed5-d6e5-4852-ab67-14b7819b47b9" wadlVersion="http://wadl.dev.java.net/2009/02" name="REST Service 1" type="rest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT" rootPart=""/><con:endpoints/><con:resource name="/" path="/" id="be3d75e8-8a67-439f-ade9-14f8d8787715"><con:settings/><con:parameters/><con:method name="GET" id="40f5af57-eaad-4b9a-84e1-93b5e115b2ab" method="GET"><con:settings/><con:parameters/><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType>application/json; charset=utf-8</con:mediaType><con:status>500 400</con:status><con:params/><con:element xmlns:goog="http://www.google.com/">goog:Fault</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType>application/json; charset=utf-8</con:mediaType><con:status>200</con:status><con:params/><con:element>Response</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType>application/json</con:mediaType><con:status>401 504 503</con:status><con:params/><con:element xmlns:goog="http://www.google.com/">goog:Fault</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType xsi:nil="true"/><con:status>0</con:status><con:params/><con:element>data</con:element></con:representation><con:request name="GET Request" id="a2c2b480-5335-426c-9fc3-07ff37365d80" mediaType="application/json"><con:settings/><con:endpoint>http://www.google.com</con:endpoint><con:credentials><con:selectedAuthProfile>No Authorization</con:selectedAuthProfile><con:authType>No Authorization</con:authType></con:credentials><con:parameters/></con:request></con:method></con:resource></con:interface><con:testSuite id="3330d467-4fb8-4efc-b7e9-fec048ec6c6c" name="PurchaseOrderBySupplier"><con:settings/><con:savedRecentRuns>1</con:savedRecentRuns><con:runType>SEQUENTIAL</con:runType><con:testCase id="f6b3290a-0497-482d-bd34-5098d7381a1a" discardOkResults="true" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="PurchaseOrderByCompany" searchProperties="true"><con:settings/><con:savedRecentRuns>1</con:savedRecentRuns><con:testStep type="groovy" name="SetDynamicURI" id="f77bed3d-c640-40bc-922d-db0038edb75d"><con:settings/><con:config><script>import jxl.*
+
+def companyCode_no = []
+def proCode = []
+def step_count
+
+def groovyUtils=new  com.eviware.soapui.support.GroovyUtils(context)
+def projectPath = groovyUtils.projectPath
+
+wb = Workbook.getWorkbook(new File(projectPath+"/"+"TestData.xls"))
+sheet = wb.getSheet(0)
+sheet1 = wb.getSheet(1)
+Domain = sheet.getCell(1,2).getContents()
+def companycode = sheet.getCell(0,5).getContents()
+def method = sheet.getCell(1,8).getContents()
+def Port = sheet.getCell(1,3).getContents()
+def invoiceno = sheet.getCell(1,8).getContents()
+def context1 = sheet.getCell(1,4).getContents()
+def apikey = sheet.getCell(1,6).getContents()
+def environment = sheet.getCell(1,0).getContents().toString()
+      	context["host"]= Domain
+		context["port"]= Port
+		context["context1"]= context1
+		context["companycode"]= companycode
+		context["colon"] = ":"
+		context["backslash"] = "/"
+		context["invoiceno"] =invoiceno
+		context["apikey"] = apikey
+		 
+          testRunner.testCase.setPropertyValue("method", method)
+if(environment.contains("Apigee"))
+{
+               log.info "Create URL for Apigee Sandbox."
+               FormApigeeURL()
+}
+else
+{
+	log.info "Create URL for 'MUM Dev'."
+	FormMumDevURL()
+}
+
+/* ***********************FormApigeeURL********************************************************************************************************************* */
+/*
+public def FormApigeeURL()
+{
+    log.info "FormApigeeURL Method"
+   
+	 
+   for (def i = 1 ; i&lt;= sheet1.getRows()-1 ; i++)
+    {
+    	  
+	  def comCode =  sheet1.getCell(0,i).getContents()
+	
+	  context["comcode"] = comCode
+	 testRunner.testCase.setPropertyValue("CompanyCode1",comCode)
+	for(def j=1; j &lt; sheet1.getColumns(); j++)
+	{ 
+          def minimum_cost = sheet1.getCell(j,i).getContents()
+		def maximum_cost =sheet1.getCell((j+1),i).getContents() 
+		  context["maximum_cost"] =maximum_cost
+		  context["minimum_cost"] =minimum_cost
+		  String parameter1 = minimum_cost.toString()
+		  String parameter2 = maximum_cost.toString()
+		testRunner.testCase.setPropertyValue("parameter1",parameter1)
+		testRunner.testCase.setPropertyValue("parameter2",parameter2)
+		
+
+               def str1 = "http://" + context["host"] + context["colon"] +context["port"]  
+               def str2 = context["backslash"] +context["context1"] + context["backslash"]+ context["companycode"]+ context["backslash"] +context["comcode"]+context["backslash"]+context["invoiceno"]+context["backslash"]+context["invoicenovalue"]+context["backslash"]+context["apikey"]
+                           
+               testRunner.testCase.getTestStepByName("REST Request").getHttpRequest().setEndpoint(str1)
+               testRunner.testCase.getTestStepByName("REST Request").getHttpRequest().setPath( str2 )
+              
+               def end = testRunner.testCase.getTestStepByName("REST Request").getHttpRequest().getEndpoint()
+               
+               log.info str1+str2
+               testRunner.runTestStepByName("REST Request")
+               testRunner.runTestStepByName("BusinessValidation")
+}
+}
+}
+*/
+
+/* ****************************************MUM-DEV URL********************************************************* */
+
+public def FormMumDevURL()
+{
+	log.info "FormMumURL Method"
+     
+	for (def i = 1 ; i&lt;= sheet1.getRows()-1 ; i++)
+    {    
+		def comCode =  sheet1.getCell(0,i).getContents()	
+		context["comcode"] = comCode
+		testRunner.testCase.setPropertyValue("CompanyCode1",comCode)
+		
+		for(def j=0; j&lt;sheet1.getColumns(); j++)
+		{ 
+	        
+			String parameter1 = ""
+			
+			testRunner.testCase.setPropertyValue("parameter1",parameter1)
+			
+			def str1 = "http://" + context["host"] + context["colon"] +context["port"]  
+			def str2 = context["backslash"] +context["context1"] + context["backslash"]+ context["companycode"]+ context["backslash"] +context["comcode"] //+context["backslash"]+context["invoiceno"]+context["backslash"]+context["invoicenovalue"]
+
+			testRunner.testCase.getTestStepByName("RESTRequest").getHttpRequest().setEndpoint(str1)
+			testRunner.testCase.getTestStepByName("RESTRequest").getHttpRequest().setPath( str2 )
+				
+			log.info " +++++++ Complete URI ==   : " + str1 + str2
+
+			testRunner.runTestStepByName("RESTRequest")
+			testRunner.runTestStepByName("BusinessUtility")
+			testRunner.runTestStepByName("BusinessValidation")	
+		}		
+	}			// End of outer 'For' loop
+}				// End of 'FormMumDevURL' method
+
+
+wb.close()
+</script></con:config></con:testStep><con:testStep type="restrequest" name="RESTRequest" id="4d5b34eb-d1e5-4d15-ab3a-d7efeb932110"><con:settings/><con:config service="REST Service 1" resourcePath="/" methodName="GET" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="RESTRequest" id="729124e5-26fe-4f41-b562-cfaf0aa353f3" mediaType="application/json" fullPath="/api/purchaseorderbysupplier/companycode/MJ"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://mum-dev:6008</con:endpoint><con:request/><con:originalUri>http://www.google.com/</con:originalUri><con:credentials><con:selectedAuthProfile>Inherit From Parent</con:selectedAuthProfile><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="groovy" name="BusinessUtility" id="dd82d199-7668-400d-8df3-2adc1ed39a27"><con:settings/><con:config><script><![CDATA[import groovy.json.JsonSlurper 
+import static com.jayway.jsonpath.JsonPath.parse
+import jxl.*
+import java.lang.Exception.*
+
+class Test
+{
+	def log
+	def testRunner
+	def context
+
+	/*
+	 * Constructor 
+	*/
+	def Test(logIn, contextIn, testRunnerIn)
+	{
+		this.log = logIn;
+		this.testRunner = testRunnerIn;
+		this.context = contextIn	
+	}
+	
+	/*
+	 * Get the sheet location from excel file 
+	*/
+	 public def GetExelSheetLocator()
+	{
+		int var = 0;
+		def company = testRunner.testCase.getPropertyValue("CompanyCode1").toLowerCase()
+		switch(company)
+		{
+			case "j1":
+				var = 3 ;
+				break;
+               case "j4" :
+				var = 4 ;
+				break;
+			case "ml" :
+				var = 5 ;
+				break;
+			case "m1" :
+				var = 6 ;
+				break;
+			case "l1" :
+				var = 7 ;
+				break;
+			case "mg" :
+				var = 8 ;
+				break;
+			case "mh" :
+				var = 9 ;
+				break;
+			case "mi" :
+				var = 10 ;
+				break;
+			case "mj" :
+				var = 11 ;
+				break;
+			default:
+				log.info "wrong comapny code"
+				break;
+		}
+
+		//Get the path of excel file and retunr the index of the required excel-sheet
+		def groovyUtils	= new  com.eviware.soapui.support.GroovyUtils(context)
+		def projectPath 	= groovyUtils.projectPath
+		def wb 			= Workbook.getWorkbook(new File(projectPath+"/"+"TestData.xls"))
+		def test_sheet 	= wb.getSheet(var)
+		return test_sheet
+	}
+
+	/*
+	 * Genrate the JSON response
+	*/
+	public def JsonResGenerator(int integer)
+     {
+		def getAzureResponse = testRunner.testCase.getTestStepByName("RESTRequest").getPropertyValue("Response")
+		def groovyUtils=new  com.eviware.soapui.support.GroovyUtils(context)
+		def projectPath = groovyUtils.projectPath
+		def wb = Workbook.getWorkbook(new File(projectPath+"/"+"TestData.xls"))
+		def json_locator_sheet = wb.getSheet(2)
+		def i = integer
+		def locator = json_locator_sheet.getCell(0,i).getContents()
+
+		//Fetch & return the requiried values from JSON response
+		def json_res = parse(getAzureResponse).read(locator)
+		return json_res                                   
+      }
+
+	/*
+	 * Validate Purchase Order By Support
+	*/
+	public def ValidatePurchaseOrderBySupport()
+	{
+		try
+		{
+			log.info "Validating the Purchase-Order by support in 'ValidatePurchaseOrderBySupport' method."
+	
+			def jsonPurchaseOrder 			= JsonResGenerator(0);
+			def jsonSuplierCode 			= JsonResGenerator(6);
+			
+			log.info " XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" 
+	
+			def excelSheet = GetExelSheetLocator()
+			def rows = excelSheet.getRows()
+			
+			log.info "Rows Count = " + (rows - 2)
+			String supplierCodeDatabase  //=  	excelSheet.getCell(6,2).getContents()
+			int counter, jsonCounter = 0;
+			
+			for (int iDB=2; iDB < rows ; )
+			{
+				def jsonSupplierInvoiceNumber 	= jsonPurchaseOrder[jsonCounter].Invoices.SupplierInvoiceNumber[0]
+				def jsonAmmountLCU 		= jsonPurchaseOrder[jsonCounter].Invoices.AmountLCU[0] 
+				def jsonSalesTaxAmount 	= (jsonPurchaseOrder[jsonCounter].Invoices.SalesTaxAmount[0] )
+				def jsonVatCode 			= jsonPurchaseOrder[jsonCounter].Invoices.VatCode[0]
+				def jsonTotal 				= jsonPurchaseOrder[jsonCounter].Invoices.Total[0]
+	
+				log.info("Size of ITERATIONS = " + jsonAmmountLCU.size())
+	
+				
+				++jsonCounter;
+				counter = 0;
+				supplierCodeDatabase =	excelSheet.getCell(6,iDB).getContents()
+				
+				while(supplierCodeDatabase == excelSheet.getCell(6,iDB).getContents())
+				{				
+					//Fetch the data from the Database/Excel
+					def dbSupplierInvoiceNumber 	= excelSheet.getCell(7,(iDB)).getContents()
+					def dbAmountLCU			 	= excelSheet.getCell(9,(iDB)).getContents() as double 
+					def dbSalesTaxAmmount 		= excelSheet.getCell(11,(iDB)).getContents() as double
+					def dbVatCode 					= excelSheet.getCell(12,(iDB)).getContents()
+					def dbTotal = dbAmountLCU + dbSalesTaxAmmount
+					
+				try
+				{
+					if(jsonAmmountLCU.size() <25)
+					{
+						if(  	jsonSuplierCode[jsonCounter-1] == supplierCodeDatabase )
+						{
+							if((jsonSupplierInvoiceNumber[counter] == dbSupplierInvoiceNumber)  && ( dbAmountLCU == jsonAmmountLCU[counter]) && (jsonSalesTaxAmount[counter] == dbSalesTaxAmmount) && dbVatCode == jsonVatCode[counter] && jsonTotal[counter] == dbTotal )
+							{
+								log.info("Suucessful OK");
+							}
+							else if (dbSupplierInvoiceNumber.isNumber())
+							{
+								log.info "Database value of Supplier Invoice Number is number " + dbSupplierInvoiceNumber
+								def dbNumber = dbSupplierInvoiceNumber as Double
+								def jsonNumber = jsonSupplierInvoiceNumber[counter] as Double
+								if(dbNumber == jsonNumber)
+								{
+										log.info "jsonSupplierInvoiceNumber = '" + jsonNumber  + "' is  EQUAL to Database SupplierInvoiceNumber ='"+ dbNumber +  "'"
+								}
+								else
+								{
+										log.error "FAILURE = jsonSupplierInvoiceNumber = '" + jsonNumber  + "' is NOT EQUAL to Database SupplierInvoiceNumber ='"+ dbNumber +  "'"
+								}
+							}
+							else
+								{
+										log.error " Database Supplier Invoice  Number is NOT number."
+								}
+							
+						}
+						else
+						{
+									log.info "jsonSuplierCode[jsonCounter-1] Is NOT EQUAL to supplierCodeDatabase."
+						}
+		
+					} 		// If (Count < 25 ) is closed 
+				}
+				catch (Exception e){
+					log.error "Exception message = '" + e.getMessage() + "'."
+				}
+					++counter;	
+					++iDB
+					
+					if( iDB == rows)
+					 	break;					
+				}		//End of While Loop
+				log.info "In Database SuppliDBer Code = '" + 	excelSheet.getCell(6,(iDB-1)).getContents() + "' has total Count = " + counter + "."
+				log.info "+++++++++++++++++++++++ NEW ITERATION +++++++++++++++++++++++";
+			}			//End of 'For' Loop	
+		}			// End of 'Try' block
+		catch (Exception e)
+		{
+		log.error "Exception message = '" + e.getMessage() + "'."
+		}
+	}				//End of 'ValidatePurchaseOrderBySupport' method.
+}
+
+// Set 'fk' property variable in 'context'
+context.setProperty("bu",new Test(log,context,testRunner));]]></script></con:config></con:testStep><con:testStep type="groovy" name="BusinessValidation" id="826d5b8a-99cf-429e-8394-33fcd8a042d9"><con:settings/><con:config><script>import static org.codehaus.groovy.runtime.StackTraceUtils.sanitize
+
+//Execute 'Default Constructor' of 'Functions' test-step
+lib = testRunner.testCase.testSuite.project.testSuites["PurchaseOrderBySupplier"].testCases["PurchaseOrderByCompany"].testSteps["BusinessUtility"]
+lib.run(testRunner, context)
+
+//Fetch the value of 'fk' property name 
+def bu = context.bu
+
+//Execute the 'validateOrderSecuredCost' method of 'Functions' test-step
+bu.ValidatePurchaseOrderBySupport()</script></con:config></con:testStep><con:properties><con:property><con:name>method</con:name><con:value>supplierinvoicenumber</con:value></con:property><con:property><con:name>CompanyCode1</con:name><con:value>MJ</con:value></con:property><con:property><con:name>parameter1</con:name><con:value/></con:property></con:properties><con:reportParameters/></con:testCase><con:testCase id="cfe921ee-4494-4af8-9742-fc7c0dccb8f7" discardOkResults="true" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="PurchaseOrderBySupplierInvoiceNo" searchProperties="true"><con:settings/><con:savedRecentRuns>1</con:savedRecentRuns><con:testStep type="groovy" name="SetDynamicURI" id="a41fa908-29d4-462c-9af2-f51997e654bd"><con:settings/><con:config><script/></con:config></con:testStep><con:testStep type="restrequest" name="RESTRequest" id="c9f3be35-5b66-4f44-9005-2f1ceab8f2f1"><con:settings/><con:config service="REST Service 1" resourcePath="/" methodName="GET" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="RESTRequest" id="729124e5-26fe-4f41-b562-cfaf0aa353f3" mediaType="application/json" fullPath="/api/purchaseorderbysupplier/companycode/MJ/suppliercode/1228"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://mum-dev:6008</con:endpoint><con:request/><con:originalUri>http://www.google.com/</con:originalUri><con:credentials><con:selectedAuthProfile>Inherit From Parent</con:selectedAuthProfile><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="groovy" name="BusinessUtility" id="3f72329e-1873-4d06-8139-fe0808803ff7"><con:settings/><con:config><script/></con:config></con:testStep><con:testStep type="groovy" name="BusinessValidation" id="c2a55226-a12e-45a5-82d4-a1b66a453b3f"><con:settings/><con:config><script/></con:config></con:testStep><con:properties><con:property><con:name>method</con:name><con:value>supplierinvoicenumber</con:value></con:property><con:property><con:name>CompanyCode1</con:name><con:value>J1</con:value></con:property></con:properties><con:reportParameters/></con:testCase><con:testCase id="94a3087b-1ee2-4937-ae87-1f6eadb0e208" discardOkResults="true" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="PurchaseOrderBySupplierCode" searchProperties="true"><con:settings/><con:savedRecentRuns>1</con:savedRecentRuns><con:testStep type="groovy" name="SetDynamicURI" id="09c2875a-ae57-4093-a145-4781664abc52"><con:settings/><con:config><script><![CDATA[import jxl.*
+
+def companyCode_no = []
+def proCode = []
+def step_count
+
+def groovyUtils=new  com.eviware.soapui.support.GroovyUtils(context)
+def projectPath = groovyUtils.projectPath
+
+wb = Workbook.getWorkbook(new File(projectPath+"/"+"TestData.xls"))
+sheet = wb.getSheet(0)
+sheet1 = wb.getSheet(1)
+Domain = sheet.getCell(1,2).getContents()
+def companycode = sheet.getCell(0,5).getContents()
+def method = sheet.getCell(1,8).getContents()
+def Port = sheet.getCell(1,3).getContents()
+//def invoiceno = sheet.getCell(1,8).getContents()
+def context1 = sheet.getCell(1,4).getContents()
+def apikey = sheet.getCell(1,6).getContents()
+def environment = sheet.getCell(1,0).getContents().toString()
+      	context["host"]= Domain
+		context["port"]= Port
+		context["context1"]= context1
+		context["companycode"]= companycode
+		context["colon"] = ":"
+		context["backslash"] = "/"		
+		context["suppliercodetext"] = "suppliercode"
+		context["apikey"] = apikey
+		 
+          testRunner.testCase.setPropertyValue("method", method)
+if(environment.contains("Apigee"))
+{
+               log.info "For Apigee Sandbox!"
+               FormApigeeURL()
+}
+else if(environment.contains("Azure"))
+{
+	log.info "For Azure"
+	FormAzureURL()
+}
+else
+{
+	log.info "for mum-dev"
+	FormMumDevURL()
+}
+
+/* ***********************FormApigeeURL********************************************************************************************************************* */
+/*
+public def FormApigeeURL()
+{
+    log.info "FormApigeeURL Method"
+   
+	 
+   for (def i = 1 ; i<= sheet1.getRows()-1 ; i++)
+    {
+    	  
+	  def comCode =  sheet1.getCell(0,i).getContents()
+	
+	  context["comcode"] = comCode
+	 testRunner.testCase.setPropertyValue("CompanyCode1",comCode)
+	for(def j=1; j < sheet1.getColumns(); j++)
+	{ 
+          def minimum_cost = sheet1.getCell(j,i).getContents()
+		def maximum_cost =sheet1.getCell((j+1),i).getContents() 
+		  context["maximum_cost"] =maximum_cost
+		  context["minimum_cost"] =minimum_cost
+		  String parameter1 = minimum_cost.toString()
+		  String parameter2 = maximum_cost.toString()
+		testRunner.testCase.setPropertyValue("parameter1",parameter1)
+		testRunner.testCase.setPropertyValue("parameter2",parameter2)
+		
+
+               def str1 = "http://" + context["host"] + context["colon"] +context["port"]  
+               def str2 = context["backslash"] +context["context1"] + context["backslash"]+ context["companycode"]+ context["backslash"] +context["comcode"]+context["backslash"]+context["invoiceno"]+context["backslash"]+context["invoicenovalue"]+context["backslash"]+context["apikey"]
+                           
+               testRunner.testCase.getTestStepByName("REST Request").getHttpRequest().setEndpoint(str1)
+               testRunner.testCase.getTestStepByName("REST Request").getHttpRequest().setPath( str2 )
+              
+               def end = testRunner.testCase.getTestStepByName("REST Request").getHttpRequest().getEndpoint()
+               
+               log.info str1+str2
+               testRunner.runTestStepByName("REST Request")
+               testRunner.runTestStepByName("BusinessValidation")
+}
+}
+}
+*/
+
+
+/*
+* Get the sheet location from excel file 
+*/
+public def GetExelSheetLocator()
+{
+	int var = 0;
+	def company = testRunner.testCase.getPropertyValue("CompanyCode1").toLowerCase()
+	switch(company)
+	{
+		case "j1":
+			var = 3 ;
+			break;
+	     case "j4" :
+			var = 4 ;
+			break;
+		case "ml" :
+			var = 5 ;
+			break;
+		case "m1" :
+			var = 6 ;
+			break;
+		case "l1" :
+			var = 7 ;
+			break;
+		case "mg" :
+			var = 8 ;
+			break;
+		case "mh" :
+			var = 9 ;
+			break;
+		case "mi" :
+			var = 10 ;
+			break;
+		case "mj" :
+			var = 11 ;
+			break;
+		default:
+			log.info "wrong comapny code"
+			break;
+	}
+
+	//Get the path of excel file and retunr the index of the required excel-sheet
+	def groovyUtils	= new  com.eviware.soapui.support.GroovyUtils(context)
+	def projectPath 	= groovyUtils.projectPath
+	def wb 			= Workbook.getWorkbook(new File(projectPath+"/"+"TestData.xls"))
+	def test_sheet 	= wb.getSheet(var)
+	return test_sheet
+}
+
+/* ****************************************MUM-DEV URL********************************************************* */
+
+public def FormMumDevURL()
+{
+	log.info "FormMumURL Method"
+
+	//Get the excel sheet acc. to country name
+     def groovyUtils=new  com.eviware.soapui.support.GroovyUtils(context)
+	def projectPath = groovyUtils.projectPath
+	def wb = Workbook.getWorkbook(new File(projectPath+"/"+"TestData.xls"))
+	
+		
+	for (def i = 1 ; i<= sheet1.getRows()-1 ; i++)
+    {    
+		def comCode =  sheet1.getCell(0,i).getContents()	
+		context["comcode"] = comCode
+		testRunner.testCase.setPropertyValue("CompanyCode1",comCode)
+		
+		for(def j=0; j<sheet1.getColumns(); j++)
+		{	        
+			//testRunner.testCase.setPropertyValue("parameter1",parameter1)
+			
+			def str1 = "http://" + context["host"] + context["colon"] +context["port"]  
+			def str2 = context["backslash"] +context["context1"] + context["backslash"]+ context["companycode"]+ context["backslash"] +context["comcode"] //+context["backslash"]+context["invoiceno"]+context["backslash"]+context["invoicenovalue"]
+			def str3 = ""
+			int l = 3;
+			
+			def countrySupplierCodeSheet = wb.getSheet(i+2)
+			for(int k=0 ; k<3 ; ++k)
+			{
+				
+				def supplierCodeValue = countrySupplierCodeSheet.getCell(6,l).getContents()
+				str3 = context["backslash"] + context["suppliercodetext"] + context["backslash"] + supplierCodeValue
+				testRunner.testCase.getTestStepByName("RESTRequest").getHttpRequest().setEndpoint(str1)
+				testRunner.testCase.getTestStepByName("RESTRequest").getHttpRequest().setPath( str2+str3)
+				log.info " +++++++ Complete URI ==   : " + str1 + str2 + str3
+	
+				//if(comCode.toString().toLowerCase() == "l1" && k == 0) {
+					testRunner.runTestStepByName("RESTRequest")
+					testRunner.runTestStepByName("BusinessUtility")
+					testRunner.runTestStepByName("BusinessValidation")
+				//}
+					
+				while (supplierCodeValue ==  countrySupplierCodeSheet.getCell(6,(l+1)).getContents() )
+				{
+					l++;
+				}
+				supplierCodeValue = countrySupplierCodeSheet.getCell(6, ++l).getContents()
+				
+				
+			}		//End of Three iteration 'FOR' loop 
+		}			//End of 'For' loop with columns iteration in sheet of the country codes
+	}				//End of 'For' loop with rows iteration in sheet of the country codes
+}
+
+
+wb.close()
+]]></script></con:config></con:testStep><con:testStep type="restrequest" name="RESTRequest" id="01001eb6-97f1-4afd-9652-9587481b434b"><con:settings/><con:config service="REST Service 1" resourcePath="/" methodName="GET" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="RESTRequest" id="729124e5-26fe-4f41-b562-cfaf0aa353f3" mediaType="application/json" fullPath="/api/purchaseorderbysupplier/companycode/MJ/suppliercode/1228"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://mum-dev:6008</con:endpoint><con:request/><con:originalUri>http://www.google.com/</con:originalUri><con:credentials><con:selectedAuthProfile>Inherit From Parent</con:selectedAuthProfile><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="groovy" name="BusinessUtility" id="bc4df8fc-4837-48e7-8e57-bdbe95586ea8"><con:settings/><con:config><script><![CDATA[import groovy.json.JsonSlurper 
+import static com.jayway.jsonpath.JsonPath.parse
+import jxl.*
+import java.lang.Exception.*
+
+class Test
+{
+	def log
+	def testRunner
+	def context
+
+	/*
+	 * Constructor 
+	*/
+	def Test(logIn, contextIn, testRunnerIn)
+	{
+		this.log = logIn;
+		this.testRunner = testRunnerIn;
+		this.context = contextIn	
+	}
+	
+	/*
+	 * Get the sheet location from excel file 
+	*/
+	 public def GetExelSheetLocator()
+	{
+		int var = 0;
+		def company = testRunner.testCase.getPropertyValue("CompanyCode1").toLowerCase()
+		switch(company)
+		{
+			case "j1":
+				var = 3 ;
+				break;
+               case "j4" :
+				var = 4 ;
+				break;
+			case "ml" :
+				var = 5 ;
+				break;
+			case "m1" :
+				var = 6 ;
+				break;
+			case "l1" :
+				var = 7 ;
+				break;
+			case "mg" :
+				var = 8 ;
+				break;
+			case "mh" :
+				var = 9 ;
+				break;
+			case "mi" :
+				var = 10 ;
+				break;
+			case "mj" :
+				var = 11 ;
+				break;
+			default:
+				log.info "wrong comapny code"
+				break;
+		}
+
+		//Get the path of excel file and retunr the index of the required excel-sheet
+		def groovyUtils	= new  com.eviware.soapui.support.GroovyUtils(context)
+		def projectPath 	= groovyUtils.projectPath
+		def wb 			= Workbook.getWorkbook(new File(projectPath+"/"+"TestData.xls"))
+		def test_sheet 	= wb.getSheet(var)
+		return test_sheet
+	}
+
+	/*
+	 * Genrate the JSON response
+	*/
+	public def JsonResGenerator(int integer)
+     {
+		def getAzureResponse = testRunner.testCase.getTestStepByName("RESTRequest").getPropertyValue("Response")
+		def groovyUtils=new  com.eviware.soapui.support.GroovyUtils(context)
+		def projectPath = groovyUtils.projectPath
+		def wb = Workbook.getWorkbook(new File(projectPath+"/"+"TestData.xls"))
+		def json_locator_sheet = wb.getSheet(2)
+		def i = integer
+		def locator = json_locator_sheet.getCell(0,i).getContents()
+
+		//Fetch & return the requiried values from JSON response
+		def json_res = parse(getAzureResponse).read(locator)
+		return json_res                                   
+      }
+
+	/*
+	 * Validate Purchase Order By Support
+	*/
+	public def ValidateInvoiceForSupplierCode()
+	{
+		try
+		{
+			log.info "Validating the Purchase-Order by support in 'ValidateInvoiceForSupplierCode' method."
+			
+			def excelSheet = GetExelSheetLocator()
+			def rows = excelSheet.getRows()
+			def supplierCode = context["suppliercode"]
+	
+			log.info "++++++++++++ JSON Values ++++++++++++ wwith ROWS =  " + (rows-2)
+	
+			def jsonPurchaseOrder 			= JsonResGenerator(0);
+			def jsonSuplierCode 			= JsonResGenerator(6);
+			
+			def jsonSupplierInvoiceNumber 	= jsonPurchaseOrder[0].Invoices.SupplierInvoiceNumber[0]
+			def jsonAmmountLCU 				= jsonPurchaseOrder[0].Invoices.AmountLCU[0] 
+			def jsonSalesTaxAmount 			= (jsonPurchaseOrder[0].Invoices.SalesTaxAmount[0] )
+			def jsonVatCode 					= jsonPurchaseOrder[0].Invoices.VatCode[0]
+			def jsonTotal 						= jsonPurchaseOrder[0].Invoices.Total[0]
+	
+			log.info("1.	JSON	Values = " + jsonSuplierCode[0] + " : " + jsonSupplierInvoiceNumber[0] + " : " + jsonAmmountLCU[0] + " : " + jsonSalesTaxAmount[0] + " : " + jsonVatCode[0] + " : " + jsonTotal[0] )
+			
+			int found = 0;
+			int jsonCounter =0
+			for (int iDB=2; iDB < rows ; )
+			{	
+				log.info "VALUES in URL = " + jsonSuplierCode[0]  + " & DB Value = " +  excelSheet.getCell(6,iDB).getContents()
+				
+				if(jsonSuplierCode[0] == excelSheet.getCell(6,iDB).getContents())
+				{
+					log.info "++++++++++++ Database Values ++++++++++++ "
+					//Fetch the data from the Database/Excel
+					def dbSupplierCode				= excelSheet.getCell(6,(iDB)).getContents()
+					def dbSupplierInvoiceNumber 	= excelSheet.getCell(7,(iDB)).getContents()
+					def dbAmountLCU			 	= excelSheet.getCell(9,(iDB)).getContents() as double 
+					def dbSalesTaxAmmount 		= excelSheet.getCell(11,(iDB)).getContents() as double
+					def dbVatCode 					= excelSheet.getCell(12,(iDB)).getContents()
+					def dbTotal = dbAmountLCU + dbSalesTaxAmmount
+					found++;
+					
+					for ( int c =0; ((iDB<(rows-1) && (jsonSuplierCode[0] == excelSheet.getCell(6,iDB).getContents()))  && c <jsonAmmountLCU.size()) ; c++ )
+					{
+						if( jsonSupplierInvoiceNumber[jsonCounter]== dbSupplierInvoiceNumber  )
+							if ( 	(jsonAmmountLCU[jsonCounter] == dbAmountLCU) && + jsonSalesTaxAmount[jsonCounter] == dbSalesTaxAmmount &&  jsonVatCode[jsonCounter] == dbVatCode &&  jsonTotal[jsonCounter]  == dbTotal)
+							{
+								log.info "Validation is successful of 'JSON Supplier Invoice Number' & 'Database Supplier Invoice Number'."
+								break;
+							}
+							else 
+								log.error "Validation is not successful for 'JSON Supplier Invoice Number' & 'Database Supplier Invoice Number' = " + jsonSupplierInvoiceNumber[jsonCounter] + " & " + dbSupplierInvoiceNumber
+					}
+					if( iDB<(rows-1) && (jsonSuplierCode[0] != excelSheet.getCell(6,iDB+1).getContents()))
+					{
+						break;
+					}
+					jsonCounter++;
+				}
+				iDB++;				
+			}		// End of 'For' loop
+		}			// End of 'Try' block
+		catch (Exception e)
+		{
+		log.error "Exception message = '" + e.getMessage() + "'."
+		}
+	}				//End of 'ValidateInvoiceForSupplierCode' method.
+}
+
+// Set 'fk' property variable in 'context'
+context.setProperty("bu",new Test(log,context,testRunner));]]></script></con:config></con:testStep><con:testStep type="groovy" name="BusinessValidation" id="d3644450-340e-4dff-b93c-e0697e29c4c4"><con:settings/><con:config><script>import static org.codehaus.groovy.runtime.StackTraceUtils.sanitize
+
+//Execute 'Default Constructor' of 'Functions' test-step
+lib = testRunner.testCase.testSuite.project.testSuites["PurchaseOrderBySupplier"].testCases["PurchaseOrderBySupplierCode"].testSteps["BusinessUtility"]
+lib.run(testRunner, context)
+
+//Fetch the value of 'fk' property name 
+def bu = context.bu
+
+//Execute the 'validateOrderSecuredCost' method of 'Functions' test-step
+bu.ValidateInvoiceForSupplierCode()</script></con:config></con:testStep><con:properties><con:property><con:name>method</con:name><con:value>supplierinvoicenumber</con:value></con:property><con:property><con:name>CompanyCode1</con:name><con:value>MJ</con:value></con:property></con:properties><con:reportParameters/></con:testCase><con:testCase id="cf585564-73fc-418b-b9bd-fa4a5e954e98" discardOkResults="true" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="PurchaseOrderByVatCode" searchProperties="true"><con:settings/><con:savedRecentRuns>1</con:savedRecentRuns><con:testStep type="groovy" name="SetDynamicURI" id="949529b6-6bdd-4bef-accb-468cbe69b436"><con:settings/><con:config><script><![CDATA[import jxl.*
+
+def companyCode_no = []
+def proCode = []
+def step_count
+
+def groovyUtils=new  com.eviware.soapui.support.GroovyUtils(context)
+def projectPath = groovyUtils.projectPath
+
+wb = Workbook.getWorkbook(new File(projectPath+"/"+"TestData.xls"))
+sheet = wb.getSheet(0)
+sheet1 = wb.getSheet(1)
+Domain = sheet.getCell(1,2).getContents()
+def companycode = sheet.getCell(0,5).getContents()
+def method = sheet.getCell(1,8).getContents()
+def Port = sheet.getCell(1,3).getContents()
+def context1 = sheet.getCell(1,4).getContents()
+def apikey = sheet.getCell(1,6).getContents()
+def environment = sheet.getCell(1,0).getContents().toString()
+      	context["host"]= Domain
+		context["port"]= Port
+		context["context1"]= context1
+		context["companycode"]= companycode
+		context["colon"] = ":"
+		context["backslash"] = "/"		
+		context["vatcodetext"] = "vatcode"
+		context["apikey"] = apikey
+		 
+          testRunner.testCase.setPropertyValue("method", method)
+if(environment.contains("Apigee"))
+{
+               log.info "For Apigee Sandbox!"
+               FormApigeeURL()
+}
+else if(environment.contains("Azure"))
+{
+	log.info "For Azure"
+	FormAzureURL()
+}
+else
+{
+	log.info "for mum-dev"
+	FormMumDevURL()
+}
+
+/* ***********************FormApigeeURL********************************************************************************************************************* */
+/*
+public def FormApigeeURL()
+{
+    log.info "FormApigeeURL Method"
+   
+	 
+   for (def i = 1 ; i<= sheet1.getRows()-1 ; i++)
+    {
+    	  
+	  def comCode =  sheet1.getCell(0,i).getContents()
+	
+	  context["comcode"] = comCode
+	 testRunner.testCase.setPropertyValue("CompanyCode1",comCode)
+	for(def j=1; j < sheet1.getColumns(); j++)
+	{ 
+          def minimum_cost = sheet1.getCell(j,i).getContents()
+		def maximum_cost =sheet1.getCell((j+1),i).getContents() 
+		  context["maximum_cost"] =maximum_cost
+		  context["minimum_cost"] =minimum_cost
+		  String parameter1 = minimum_cost.toString()
+		  String parameter2 = maximum_cost.toString()
+		testRunner.testCase.setPropertyValue("parameter1",parameter1)
+		testRunner.testCase.setPropertyValue("parameter2",parameter2)
+		
+
+               def str1 = "http://" + context["host"] + context["colon"] +context["port"]  
+               def str2 = context["backslash"] +context["context1"] + context["backslash"]+ context["companycode"]+ context["backslash"] +context["comcode"]+context["backslash"]+context["invoiceno"]+context["backslash"]+context["invoicenovalue"]+context["backslash"]+context["apikey"]
+                           
+               testRunner.testCase.getTestStepByName("REST Request").getHttpRequest().setEndpoint(str1)
+               testRunner.testCase.getTestStepByName("REST Request").getHttpRequest().setPath( str2 )
+              
+               def end = testRunner.testCase.getTestStepByName("REST Request").getHttpRequest().getEndpoint()
+               
+               log.info str1+str2
+               testRunner.runTestStepByName("REST Request")
+               testRunner.runTestStepByName("BusinessValidation")
+}
+}
+}
+*/
+
+
+/*
+* Get the sheet location from excel file 
+*/
+public def GetExelSheetLocator()
+{
+	int var = 0;
+	def company = testRunner.testCase.getPropertyValue("CompanyCode1").toLowerCase()
+	switch(company)
+	{
+		case "j1":
+			var = 3 ;
+			break;
+	     case "j4" :
+			var = 4 ;
+			break;
+		case "ml" :
+			var = 5 ;
+			break;
+		case "m1" :
+			var = 6 ;
+			break;
+		case "l1" :
+			var = 7 ;
+			break;
+		case "mg" :
+			var = 8 ;
+			break;
+		case "mh" :
+			var = 9 ;
+			break;
+		case "mi" :
+			var = 10 ;
+			break;
+		case "mj" :
+			var = 11 ;
+			break;
+		default:
+			log.info "wrong comapny code"
+			break;
+	}
+
+	//Get the path of excel file and retunr the index of the required excel-sheet
+	def groovyUtils	= new  com.eviware.soapui.support.GroovyUtils(context)
+	def projectPath 	= groovyUtils.projectPath
+	def wb 			= Workbook.getWorkbook(new File(projectPath+"/"+"TestData.xls"))
+	def test_sheet 	= wb.getSheet(var)
+	return test_sheet
+}
+
+/* ****************************************MUM-DEV URL********************************************************* */
+
+public def FormMumDevURL()
+{
+	try{
+		log.info "FormMumURL Method"
+	
+		//Get the excel sheet acc. to country name
+	     def groovyUtils=new  com.eviware.soapui.support.GroovyUtils(context)
+		def projectPath = groovyUtils.projectPath
+		def wb = Workbook.getWorkbook(new File(projectPath+"/"+"TestData.xls"))
+		
+			
+		for (def i = 1 ; i<= sheet1.getRows()-1 ; i++)
+	    {    
+			def comCode =  sheet1.getCell(0,i).getContents()	
+			context["comcode"] = comCode
+			testRunner.testCase.setPropertyValue("CompanyCode1",comCode)
+			
+			for(def j=0; j<sheet1.getColumns(); j++)
+			{	        
+				//testRunner.testCase.setPropertyValue("parameter1",parameter1)
+				
+				def str1 = "http://" + context["host"] + context["colon"] +context["port"]  
+				def str2 = context["backslash"] +context["context1"] + context["backslash"]+ context["companycode"]+ context["backslash"] +context["comcode"] //+context["backslash"]+context["invoiceno"]+context["backslash"]+context["invoicenovalue"]
+				def str3 = ""
+				int l = 3;
+				
+				def countryVatCodeSheet = wb.getSheet(i+2)
+				for(int k=0 ; k<1 ; ++k)
+				{
+		
+					def vatCodeValue = countryVatCodeSheet.getCell(12,l).getContents()
+					str3 = context["backslash"] + context["vatcodetext"] + context["backslash"] + vatCodeValue
+					testRunner.testCase.getTestStepByName("RESTRequest").getHttpRequest().setEndpoint(str1)
+					testRunner.testCase.getTestStepByName("RESTRequest").getHttpRequest().setPath( str2+str3)
+					log.info " +++++++ Complete URI ==   : " + str1 + str2 + str3
+		
+					try{
+						if(comCode.toString().toLowerCase() == "mg" && k == 0) {
+					
+						testRunner.runTestStepByName("RESTRequest")
+						testRunner.runTestStepByName("BusinessUtility")
+						testRunner.runTestStepByName("BusinessValidation")
+						}
+					}
+					catch (Exception e){
+					log.error "Exception message = '" + e.getMessage() + "'."
+					}
+						
+					while (((l+1) < (countryVatCodeSheet.getRows()-2) )&& vatCodeValue ==  countryVatCodeSheet.getCell(12,(l+1)).getContents() )
+					{
+						l++;
+					}
+					vatCodeValue = countryVatCodeSheet.getCell(12, ++l).getContents()
+					
+					
+				}		//End of Three iteration 'FOR' loop 
+			}			//End of 'For' loop with columns iteration in sheet of the country codes
+		}				//End of 'For' loop with rows iteration in sheet of the country codes
+	}					//End of 'Try' block 
+	catch (Exception e){
+		log.error "Exception message = '" + e.getMessage() + "'."
+	}
+}
+
+
+wb.close()
+]]></script></con:config></con:testStep><con:testStep type="restrequest" name="RESTRequest" id="42e9d8d7-9ac1-4186-ab2a-a0870da6175d"><con:settings/><con:config service="REST Service 1" resourcePath="/" methodName="GET" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="RESTRequest" id="729124e5-26fe-4f41-b562-cfaf0aa353f3" mediaType="application/json" fullPath="/api/purchaseorderbysupplier/companycode/MJ/vatcode/0"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://mum-dev:6008</con:endpoint><con:request/><con:originalUri>http://www.google.com/</con:originalUri><con:credentials><con:selectedAuthProfile>Inherit From Parent</con:selectedAuthProfile><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="groovy" name="BusinessUtility" id="cadc296d-8398-4b92-bf48-f152d50211b6"><con:settings/><con:config><script>import groovy.json.JsonSlurper 
+import static com.jayway.jsonpath.JsonPath.parse
+import jxl.*
+import java.lang.Exception.*
+
+class Test
+{
+	def log
+	def testRunner
+	def context
+
+	/*
+	 * Constructor 
+	*/
+	def Test(logIn, contextIn, testRunnerIn)
+	{
+		this.log = logIn;
+		this.testRunner = testRunnerIn;
+		this.context = contextIn	
+	}
+	
+	/*
+	 * Get the sheet location from excel file 
+	*/
+	 public def GetExelSheetLocator()
+	{
+		int var = 0;
+		def company = testRunner.testCase.getPropertyValue("CompanyCode1").toLowerCase()
+		switch(company)
+		{
+			case "j1":
+				var = 3 ;
+				break;
+               case "j4" :
+				var = 4 ;
+				break;
+			case "ml" :
+				var = 5 ;
+				break;
+			case "m1" :
+				var = 6 ;
+				break;
+			case "l1" :
+				var = 7 ;
+				break;
+			case "mg" :
+				var = 8 ;
+				break;
+			case "mh" :
+				var = 9 ;
+				break;
+			case "mi" :
+				var = 10 ;
+				break;
+			case "mj" :
+				var = 11 ;
+				break;
+			default:
+				log.info "wrong comapny code"
+				break;
+		}
+
+		//Get the path of excel file and retunr the index of the required excel-sheet
+		def groovyUtils	= new  com.eviware.soapui.support.GroovyUtils(context)
+		def projectPath 	= groovyUtils.projectPath
+		def wb 			= Workbook.getWorkbook(new File(projectPath+"/"+"TestData.xls"))
+		def test_sheet 	= wb.getSheet(var)
+		return test_sheet
+		
+		//Close the workbook
+		wb.close()
+	}
+
+	/*
+	 * Genrate the JSON response
+	*/
+	public def JsonResGenerator(int integer)
+     {
+		def getAzureResponse = testRunner.testCase.getTestStepByName("RESTRequest").getPropertyValue("Response")
+		def groovyUtils=new  com.eviware.soapui.support.GroovyUtils(context)
+		def projectPath = groovyUtils.projectPath
+		def wb = Workbook.getWorkbook(new File(projectPath+"/"+"TestData.xls"))
+		def json_locator_sheet = wb.getSheet(2)
+		def i = integer
+		def locator = json_locator_sheet.getCell(0,i).getContents()
+
+		//Fetch &amp; return the requiried values from JSON response
+		def json_res = parse(getAzureResponse).read(locator)
+		return json_res                                   
+      }
+
+	/*
+	 * Validate Purchase Order By Support
+	*/
+	public def ValidateInvoiceForVatCode()
+	{
+		try{
+			log.info "Validating the Purchase-Order by support in 'ValidateInvoiceForVatCode' method."
+	
+			def jsonPurchaseOrder 			= JsonResGenerator(0);
+			def jsonSuplierCode 			= JsonResGenerator(6);
+			def jsonTotalVatCount 			= JsonResGenerator(5);
+			int jsonTotalVatCodeCount	 = 0;
+	
+			def excelSheet = GetExelSheetLocator()
+			def rows = excelSheet.getRows()
+			
+			log.info "Rows Count = " + (rows - 2)
+			String supplierCodeDatabase  //=  	excelSheet.getCell(6,2).getContents()
+			int counter, jsonCounter = 0;
+			
+			for (int iDB=2; iDB &lt; rows ; )
+			{
+				def jsonSupplierInvoiceNumber 	= jsonPurchaseOrder[jsonCounter].Invoices.SupplierInvoiceNumber[0]
+				def jsonAmmountLCU 				= jsonPurchaseOrder[jsonCounter].Invoices.AmountLCU[0] 
+				def jsonSalesTaxAmount 			= (jsonPurchaseOrder[jsonCounter].Invoices.SalesTaxAmount[0] )
+				def jsonVatCode 					= jsonPurchaseOrder[jsonCounter].Invoices.VatCode[0]
+				def jsonTotal 						= jsonPurchaseOrder[jsonCounter].Invoices.Total[0]
+	
+				++jsonCounter;
+				counter = 0;
+				supplierCodeDatabase =	excelSheet.getCell(6,iDB).getContents()
+	
+				//Validate invoices of same 'Supplier Code'
+				while(supplierCodeDatabase == excelSheet.getCell(6,iDB).getContents())
+				{				
+					//Fetch the data from the Database/Excel
+					def dbVatCode = excelSheet.getCell(12,(iDB)).getContents()
+					
+					try
+					{
+							if(jsonSuplierCode[jsonCounter-1] == supplierCodeDatabase )
+							{
+								if((dbVatCode == jsonVatCode[counter]))
+								{
+									jsonTotalVatCodeCount++;
+								}
+								else 
+								{
+									log.error ("JSON response VAT Code = '" + jsonVatCode[counter]  + "' is  NOT EQUAL to Database VAT Code ='" + dbVatCode + "', but it is expected to be equal.");
+								}
+							}						
+					}
+					catch (Exception e){
+						log.error "Exception message = '" + e.getMessage() + "'."
+					}
+					++counter;	
+					++iDB
+					
+					if( iDB == rows)
+					 	break;					
+				}		//End of While Loop			
+				log.info "In Database SuppliDBer Code = '" + 	excelSheet.getCell(6,(iDB-1)).getContents() + "' has total Count = " + counter
+			}			//End of 'For' Loop	
+			
+			if(jsonTotalVatCount.size() == jsonTotalVatCodeCount){ 
+				log.info "Total 'VAT Code' count of JSON response = '" + jsonTotalVatCount.size()  + "' is  EQUAL to total 'VAT Code' count of database ='" + jsonTotalVatCodeCount + "'."
+			}
+			else{
+				log.error ("Total 'VAT Code' count of JSON response = '" + jsonTotalVatCount.size()  + "' is  NOT EQUAL to total 'VAT Code' count of Database ='" + jsonTotalVatCodeCount + "', but it is expected to be equal.");
+			}
+		}			// End of 'Try' block
+		catch (Exception e)
+		{
+		log.error "Exception message = '" + e.getMessage() + "'."
+		}
+	}				//End of 'ValidateInvoiceForVatCode' method.
+}
+
+// Set 'fk' property variable in 'context'
+context.setProperty("bu",new Test(log,context,testRunner));</script></con:config></con:testStep><con:testStep type="groovy" name="BusinessValidation" id="32883470-68cc-4568-bce7-c9ae618addcb"><con:settings/><con:config><script>import static org.codehaus.groovy.runtime.StackTraceUtils.sanitize
+
+//Execute 'Default Constructor' of 'Functions' test-step
+lib = testRunner.testCase.testSuite.project.testSuites["PurchaseOrderBySupplier"].testCases["PurchaseOrderByVatCode"].testSteps["BusinessUtility"]
+lib.run(testRunner, context)
+
+//Fetch the value of 'fk' property name 
+def bu = context.bu
+
+//Execute the 'validateOrderSecuredCost' method of 'Functions' test-step
+bu.ValidateInvoiceForVatCode()</script></con:config></con:testStep><con:properties><con:property><con:name>method</con:name><con:value>supplierinvoicenumber</con:value></con:property><con:property><con:name>CompanyCode1</con:name><con:value>MJ</con:value></con:property></con:properties><con:reportParameters/><con:breakPoints><con:testStepId>cadc296d-8398-4b92-bf48-f152d50211b6</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints></con:testCase><con:properties/><con:reportParameters/></con:testSuite><con:savedRecentRuns>1</con:savedRecentRuns><con:properties/><con:wssContainer/><con:databaseConnectionContainer/><con:oAuth2ProfileContainer/><con:reporting><con:reportTemplates/><con:xmlTemplates/><con:xmlTemplates/><con:parameters/><con:parameters/></con:reporting><con:reporting/><con:authRepository/><con:tags/></con:soapui-project>
